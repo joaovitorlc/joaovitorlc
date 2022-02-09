@@ -1,4 +1,4 @@
-### Olá, seja bem vindo aos meus projetos! Me chamo João Vitor
+### Olá, seja bem vindo aos meus projetos!
 
 - 🔭 Atualmente não trabalho na área, porém, busco uma oportunidade de ter experiência e adquirir CONHECIMENTO.
 - 🌱 Estou iniciando os estudos na área de programação
