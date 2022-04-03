@@ -4,6 +4,7 @@
 - 🌱 Estou iniciando os estudos na área de programação
 - 👯 Gosto de aprender na prática
 - 🤔 Por enquanto, estou me aprofundando em HTML e CSS, e vendo introdução de alguns frameworks
+- PRIMEIRA TELA DE SITE NO AR - 03/04/2022
 
 - ⚡ Pronto para qualquer desafio!
 
