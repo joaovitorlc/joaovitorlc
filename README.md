@@ -1,12 +1,13 @@
 ### Olá, seja bem vindo aos meus projetos!
 
-- 🔭 Atualmente não trabalho na área, porém, busco uma oportunidade de ter experiência e adquirir CONHECIMENTO.
-- 🌱 Estou iniciando os estudos na área de programação
-- 👯 Gosto de aprender na prática
-- 🤔 Por enquanto, estou me aprofundando em HTML e CSS, e vendo introdução de alguns frameworks
+- 🔭 Atualmente não trabalho na área, porém, busco uma oportunidade de ter experiência e adquirir conhecimento.
+- 🌱 Estou iniciando os estudos na área de programação.
+- 👯 Gosto de aprender na prática.
+- 🤔 Agora estou estudando JavaScript e vendo introdução de alguns frameworks.
 - PRIMEIRA TELA DE SITE NO AR - 03/04/2022
 
 - ⚡ Pronto para qualquer desafio!
+https://portifoliojoaovitorlimacaetano.netlify.app/
 
 <div align="center">
   <a href="https://github.com/joaovitorlc">
